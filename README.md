@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **riyapandey6849@gmail.com**
 
-- ⚡ Fun fact **My Hobby is Photography**
+- ⚡ Fun fact **I Love Travel Photography :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
