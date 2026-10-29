@@ -9,7 +9,7 @@
 -I'm an AI & Data Science graduate passionate about building intelligent solutions, exploring deep learning, and turning data into meaningful insights. I love learning new technologies, experimenting with AI, and working on projects that solve real-world problems.
 
 
-💼 Experience
+💼 Experience:
 
 1. DRDO – DIPR | Summer Intern (Jul–Aug 2024)
 
