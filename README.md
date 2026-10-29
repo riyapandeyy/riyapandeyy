@@ -8,6 +8,25 @@
 
 -I'm an AI & Data Science graduate passionate about building intelligent solutions, exploring deep learning, and turning data into meaningful insights. I love learning new technologies, experimenting with AI, and working on projects that solve real-world problems.
 
+
+💼 Professional Experience
+
+🔹 Defence Research and Development Organisation (DRDO) – DIPR
+
+Summer Intern | July 2024 – August 2024
+
+Gained exposure to defence research and development.
+
+Explored technical research and emerging technology applications.
+
+🔹 Bharat Electronics Limited (BEL), Ghaziabad
+
+AR/VR Intern | 2025
+
+Explored Augmented Reality (AR) and Virtual Reality (VR) technologies.
+
+Gained practical exposure to immersive technology applications.
+
 Here, you’ll find:
 
 - 🛠️ Projects I’m building or contributing to
