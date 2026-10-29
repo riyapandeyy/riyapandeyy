@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyapandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="riyapandeyy" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/riyapandeyy" 
+<p align="left"> <a href="www.linkedin.com/in/riyapandeyy" /> </p>
 
 -I'm an AI & Data Science graduate passionate about building intelligent solutions, exploring deep learning, and turning data into meaningful insights. I love learning new technologies, experimenting with AI, and working on projects that solve real-world problems.
 
