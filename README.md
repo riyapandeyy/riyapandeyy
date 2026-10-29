@@ -14,6 +14,7 @@
 1. DRDO – DIPR | Summer Intern (Jul–Aug 2024)
 
 2. Bharat Electronics Limited (BEL) | AR/VR Intern (2025)
+   
 
 🧑🏻‍💻 Here, you’ll find:
 
