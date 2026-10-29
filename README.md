@@ -20,7 +20,6 @@ Here, you’ll find:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/riyapandeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyapandey73514" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/www.linkedin.com/in/riyapandeyy](https://x.com/riyapandey73514)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/riyapandeyy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/riyapandey004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyapandey004" height="30" width="40" /></a>
 </p>
 
