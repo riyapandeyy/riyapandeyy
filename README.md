@@ -15,7 +15,7 @@
 
 2. Bharat Electronics Limited (BEL) | AR/VR Intern (2025)
 
-Here, you’ll find:
+🧑🏻‍💻 Here, you’ll find:
 
 - 🛠️ Projects I’m building or contributing to
 - 🧠 Things I’ve learned while exploring AI, Data Science, and new technologies
